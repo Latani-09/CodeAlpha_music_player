@@ -49,7 +49,7 @@ export default function Player({
 
 const MediaComponent = ({audioSrc }) => {
  
-    let mp3Src = './public/songs/' + audioSrc;
+    let mp3Src = './songs/' + audioSrc;
     console.log('mp3Src - ',mp3Src);
     const audioRef = useRef(null);
     const [paused, setpaused] = useState(true);
@@ -74,12 +74,14 @@ const MediaComponent = ({audioSrc }) => {
             <button onClick={toggleAudio} >
                 {paused ? ('play') : ('pause')}</button>
             <audio ref={audioRef} src={mp3Src} volume/>
-            {paused ? (null) : (<input
-                type="range"
-                defaultValue="40"
-                className="mx-2 progressBarvolume bar volume"
-                onChange={changevolume}
-            />)}
+            {paused ? (null) : (
+                <input
+                    type="range"
+                    defaultValue="40"
+                    className="mx-2 progressBarvolume bar volume"
+                    onChange={changevolume} />
+                
+            )}
         </div>
     );
 };

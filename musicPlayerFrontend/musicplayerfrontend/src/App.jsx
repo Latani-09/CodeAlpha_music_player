@@ -96,7 +96,9 @@ function App() {
 
     };
     return (
+        
         <div className="container">
+            <h3>Music Player</h3>
             <div className="search-and-filter-wrapper">
                 <div className="filter-wrapper">
                 <label htmlFor="dropdown">Language:</label>
@@ -125,7 +127,7 @@ function App() {
             <Player playlist={playlist} />
         </div>
             
-        </>
+       </div>
     );
 }
 
