@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WEB DEV PROJECTS\\EventManagement\\CodeAlpha_EventManagement\\Latani-09\\CodeAlpha_EventManagement\\musicPlayerFrontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{243D6E5E-DF5B-4C9D-A40A-F875694023A3}|musicPlayerFrontend\\musicplayerfrontend.esproj|e:\\web dev projects\\eventmanagement\\codealpha_eventmanagement\\latani-09\\codealpha_eventmanagement\\musicplayerfrontend\\musicplayerfrontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{243D6E5E-DF5B-4C9D-A40A-F875694023A3}|musicPlayerFrontend\\musicplayerfrontend.esproj|solutionrelative:musicplayerfrontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243D6E5E-DF5B-4C9D-A40A-F875694023A3}|musicPlayerFrontend\\musicplayerfrontend.esproj|e:\\web dev projects\\eventmanagement\\codealpha_eventmanagement\\latani-09\\codealpha_eventmanagement\\musicplayerfrontend\\musicplayerfrontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{243D6E5E-DF5B-4C9D-A40A-F875694023A3}|musicPlayerFrontend\\musicplayerfrontend.esproj|solutionrelative:musicplayerfrontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243D6E5E-DF5B-4C9D-A40A-F875694023A3}|musicPlayerFrontend\\musicplayerfrontend.esproj|e:\\web dev projects\\eventmanagement\\codealpha_eventmanagement\\latani-09\\codealpha_eventmanagement\\musicplayerfrontend\\musicplayerfrontend\\src\\component\\player.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{243D6E5E-DF5B-4C9D-A40A-F875694023A3}|musicPlayerFrontend\\musicplayerfrontend.esproj|solutionrelative:musicplayerfrontend\\src\\component\\player.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243D6E5E-DF5B-4C9D-A40A-F875694023A3}|musicPlayerFrontend\\musicplayerfrontend.esproj|e:\\web dev projects\\eventmanagement\\codealpha_eventmanagement\\latani-09\\codealpha_eventmanagement\\musicplayerfrontend\\musicplayerfrontend\\src\\songsdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{243D6E5E-DF5B-4C9D-A40A-F875694023A3}|musicPlayerFrontend\\musicplayerfrontend.esproj|solutionrelative:musicplayerfrontend\\src\\songsdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "E:\\WEB DEV PROJECTS\\EventManagement\\CodeAlpha_EventManagement\\Latani-09\\CodeAlpha_EventManagement\\musicPlayerFrontend\\musicplayerfrontend\\src\\App.jsx",
+              "RelativeDocumentMoniker": "musicplayerfrontend\\src\\App.jsx",
+              "ToolTip": "E:\\WEB DEV PROJECTS\\EventManagement\\CodeAlpha_EventManagement\\Latani-09\\CodeAlpha_EventManagement\\musicPlayerFrontend\\musicplayerfrontend\\src\\App.jsx",
+              "RelativeToolTip": "musicplayerfrontend\\src\\App.jsx",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-03T10:42:29.718Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.css",
+              "DocumentMoniker": "E:\\WEB DEV PROJECTS\\EventManagement\\CodeAlpha_EventManagement\\Latani-09\\CodeAlpha_EventManagement\\musicPlayerFrontend\\musicplayerfrontend\\src\\App.css",
+              "RelativeDocumentMoniker": "musicplayerfrontend\\src\\App.css",
+              "ToolTip": "E:\\WEB DEV PROJECTS\\EventManagement\\CodeAlpha_EventManagement\\Latani-09\\CodeAlpha_EventManagement\\musicPlayerFrontend\\musicplayerfrontend\\src\\App.css",
+              "RelativeToolTip": "musicplayerfrontend\\src\\App.css",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwC4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-06T05:59:08.696Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "songsData.json",
+              "DocumentMoniker": "E:\\WEB DEV PROJECTS\\EventManagement\\CodeAlpha_EventManagement\\Latani-09\\CodeAlpha_EventManagement\\musicPlayerFrontend\\musicplayerfrontend\\src\\songsData.json",
+              "RelativeDocumentMoniker": "musicplayerfrontend\\src\\songsData.json",
+              "ToolTip": "E:\\WEB DEV PROJECTS\\EventManagement\\CodeAlpha_EventManagement\\Latani-09\\CodeAlpha_EventManagement\\musicPlayerFrontend\\musicplayerfrontend\\src\\songsData.json",
+              "RelativeToolTip": "musicplayerfrontend\\src\\songsData.json",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAwwIwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T02:36:55.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player.jsx",
+              "DocumentMoniker": "E:\\WEB DEV PROJECTS\\EventManagement\\CodeAlpha_EventManagement\\Latani-09\\CodeAlpha_EventManagement\\musicPlayerFrontend\\musicplayerfrontend\\src\\component\\player.jsx",
+              "RelativeDocumentMoniker": "musicplayerfrontend\\src\\component\\player.jsx",
+              "ToolTip": "E:\\WEB DEV PROJECTS\\EventManagement\\CodeAlpha_EventManagement\\Latani-09\\CodeAlpha_EventManagement\\musicPlayerFrontend\\musicplayerfrontend\\src\\component\\player.jsx",
+              "RelativeToolTip": "musicplayerfrontend\\src\\component\\player.jsx",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-06T02:55:15.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

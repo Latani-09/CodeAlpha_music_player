@@ -1,0 +1,342 @@
+{
+  "songs": [
+
+    {
+       
+      "_id": "15",
+      "artist": [
+        "S.P.Balasubrahmanyam",
+        "K.S.Chithra"
+      ],
+      "fileName": "Pooja-Vaa-Pooja-Vaa-MassTamilan.com.mp3",
+      "isFavourited": false,
+      "language": "Tamil",
+      "title": "Pooja vaa Pooja vaa"
+    },
+    {
+       
+      "_id": "16",
+      "artist": [
+        "Anirudh Ravichander"
+      ],
+      "fileName": "Kannamma-MassTamilan.org",
+      "isFavourited": false,
+      "language": "Tamil",
+      "title": "Kannamma"
+    },
+    {
+      "_id": "17",
+      "fileName": "New-York-Nagaram.mp3",
+      "title": "New York Nagaram",
+      "isFavourited": false,
+       
+      "artist": [
+        "A.R.Rahman"
+      ],
+      "language": "Tamil"
+
+    },
+    {
+       
+      "_id": "18",
+      "artist": [
+        "S.P.B.Saran",
+        "Malgudi Subha "
+      ],
+      "fileName": "Mun-Paniyaa.mp3",
+      "isFavourited": false,
+      "language": "Tamil",
+      "title": "Mun Paniyaa"
+    },
+    {
+      "_id": "19",
+      "fileName": "Kadhal-Rojave.mp3",
+      "title": "Kadhal Rojave",
+      "isFavourited": false,
+       
+      "artist": [
+        "S.P.Balasubrahmanyam",
+        "Sujatha"
+      ],
+      "language": "Tamil"
+
+    },
+    {
+      "_id": "20",
+      "fileName": "Manasukkul-MassTamilan.com.mp3",
+      "title": "Manasukkul",
+      "isFavourited": false,
+       
+      "artist": [
+        "S.P.Balasubrahmanyam",
+        "Sadhana Sargam"
+      ],
+      "language": "Tamil"
+
+    },
+
+    {
+      "_id": "21",
+      "fileName": "Kaali Theme.mp3",
+      "title": "kaali theme",
+      "isFavourited": false,
+       
+      "artist": [
+        ""
+      ],
+      "language": "Tamil",
+      "movie": "",
+      "year": null
+    },
+    {
+      "_id": "22",
+      "fileName": "Kanmoodi.mp3",
+      "title": "Kanmoodi",
+      "isFavourited": false,
+       
+      "artist": [
+        "Devi"
+      ],
+      "language": "Tamil",
+      "movie": "Sachin",
+      "year": null
+
+    },
+    {
+      "_id": "24",
+      "fileName": "Kaala-Teaser-Theme.mp3",
+      "title": "kaala theme",
+      "isFavourited": false,
+      "artist": [
+        ""
+      ]
+    },
+    {
+      "_id": "25",
+      "artist": [
+        "S.P.Balasubrahmanyam",
+        "O.S.Arun",
+        "Rafee"
+      ],
+      "fileName": "Ennai-Kaanavillaiye.mp3",
+      "isFavourited": false,
+      "language": "Tamil",
+      "title": "Ennai-Kaanavillaiye"
+    },
+
+    {
+      "_id": "26",
+      "fileName": "Chennai-City-Gangsta.mp3",
+      "title": "Chennai City Gangsta",
+      "isFavourited": false,
+       
+      "artist": [
+        "Hiphop Tamizha",
+        "Hard Kaur",
+        "Country Chicken"
+      ],
+      "language": "Tamil"
+    },
+    {
+      "_id": "40",
+      "fileName": "Kaalathukkum-Nee-Venum.mp3",
+      "title": "Kaalathukkum-Nee-Venum",
+      "isFavourited": false,
+       
+      "artist": [
+        ""
+      ]
+    },
+    {
+      "_id": "27",
+      "fileName": "",
+      "title": "Vanakkam Chennai Mashup",
+      "isFavourited": false,
+       
+      "artist": [
+        "Papon",
+        "Vishal Dadlani",
+        "Pragathi",
+        "Andrea Jeremiah",
+        "Suchitra",
+        "Arjun",
+        "Hard Kaur",
+        "Hiphop Tamizha"
+      ],
+      "language": "Tamil"
+    },
+    {
+      "_id": "28",
+      "fileName": "",
+      "title": "Iraiva",
+      "isFavourited": false,
+       
+      "artist": [
+        "Anirudh Ravichander",
+        "Jonita Gandhi"
+      ],
+      "language": "Tamil"
+    },
+    {
+      "_id": "29",
+      "fileName": "Sirikkadhey.mp3",
+      "title": "Sirikkadhey",
+      "isFavourited": false,
+       
+      "artist": [
+        "Anirudh Ravichander",
+        "Arjun Kanungo",
+        "Srinidhi Venkatesh"
+      ],
+      "language": "Tamil"
+    },
+    {
+      "_id": "30",
+      "fileName": "Hulchul - Qaidi Band.mp3",
+      "title": "Hulchul",
+      "isFavourited": false,
+       
+      "artist": [
+        "Arijit singh"
+      ],
+      "language": "Hindi"
+
+    },
+    {
+      "_id": "31",
+      "fileName": "Pal - Jalebi - Arijit Singh.mp3",
+      "title": "Pal",
+      "isFavourited": false,
+       
+      "artist": [
+        "Arijit singh"
+      ],
+      "language": "Hindi"
+
+    },
+    {
+      "_id": "32",
+      "fileName": "Martin_Garrix_JVKE_-_Hero_FlexyOkay.com.mp3",
+      "title": "Hero",
+      "isFavourited": false,
+       
+      "artist": [
+        "Martin_Garrix"
+      ],
+      "language": "English"
+
+    },
+    {
+      "_id": "13",
+      "fileName": "Tharala-prabhu",
+      "title": "Tharala prabhu - Title Track",
+      "isFavourited": false,
+       
+      "artist": [
+
+        "Anirudh Ravichander"
+      ],
+      "language": "Tamil"
+
+    },
+    {
+      "_id": "14",
+      "fileName": "The-Karma-Theme-MassTamilan.com.mp3",
+      "title": "The Karma Theme",
+      "isFavourited": false,
+       
+      "artist": [
+        "Anirudh Ravichander"
+      ],
+      "language": "Tamil"
+
+    },
+    {
+      "_id": "33",
+      "fileName": "Qaafirana - Kedarnath (2018).mp3",
+      "title": "Qaafirana",
+      "isFavourited": false,
+       
+      "artist": [
+        "Arijit Singh",
+        "Nikita Kandhi"
+      ],
+      "language": "English"
+
+    },
+    {
+      "_id": "35",
+      "fileName": "Ae_Dil_Hai_Mushkil.mp3",
+      "title": "Ae Dil Hai Mushkil",
+      "isFavourited": false,
+       
+      "artist": [
+        "Pritam"
+      ],
+      "language": "Hindi",
+      "album": "Ae Dil Hai Mushkil",
+      "lyricist": "Amitabh Bhattacharya",
+      "year": 2016
+    },
+    {
+      "_id": "36",
+      "fileName": "",
+      "title": "Let's Nacho",
+      "isFavourited": false,
+       
+      "artist": [
+        "Badshah",
+        "Benny Dayal",
+        "Nucleya",
+        "Benny Dayal"
+      ],
+      "language": "Hindi",
+      "movie": "Kapoor & Sons",
+      "year": 2016
+    },
+    {
+      "_id": "37",
+      "fileName": "Little-Things.mp3",
+      "title": "Lttle Things",
+      "isFavourited": false,
+       
+      "artist": [
+        " One Direction"
+      ],
+      "language": "English",
+
+      "year": 2012
+    },
+    {
+      "_id": "38",
+      "fileName": "(Billie Eilish) Bad Guy, Feng E.mp3",
+      "title": "Bad guy",
+      "isFavourited": false,
+       
+      "artist": [
+        "Billie Eilish"
+      ],
+      "language": "English"
+
+
+    },
+
+    {
+      "_id": "39",
+      "fileName": "02 - Samjhawan - HSKD(2014).mp3",
+      "title": "Samjhawan",
+      "isFavourited": false,
+       
+      "artist": [
+        "Arijit Singh",
+        "Shreya Ghoshal",
+        "Sharib−Toshi",
+        "Ahmad Anees",
+        "Kumaar"
+      ],
+      "language": "Hindi",
+      "movie": "Humpty Sharma Ki Dulhania",
+      "year": 2014
+    }
+  ]
+}
