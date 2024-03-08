@@ -1,13 +1,14 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+    max-width: 100%;
+    background-color: hsl(240,60%,10%);
+    text-align: center;
 }
-
+.body {
+    
+}
 .logo {
   height: 6em;
-  padding: 1.5em;
+
   will-change: filter;
   transition: filter 300ms;
 }
@@ -34,7 +35,7 @@
 }
 
 .card {
-  padding: 2em;
+
 }
 
 .read-the-docs {
@@ -42,98 +43,154 @@
 }
 
 .container {
-    position:;
-    top: 4px;
-    left: 4px;
-    width: 100%;
-    margin-top:2px;
+    max-width:100%;
 }
+.song-table-container {
+    height: 75vh;
+    overflow-y: auto;
+
+    
+}
+
+
+
+.song-table tbody {
+    width: 100%;
+    text-align:left !important;
+  
+}
+.song-table thead {
+    max-height: 70vh;
+    width: 100%;
+    text-align: left !important;
+
+}
+.song-table tbody tr td{
+    height:40px !important;
+}
+.player-card {
+    padding: 10px 7px 2px 15px;
+    background-image: radial-gradient(circle, hsl(240,30%,20%) , hsl(240,50%,60%) );
+    min-height: 10vh;
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom:5px;
+}
+.volume-bar{
+    margin-top:30px;
+}
+
+
+/*
+
+
 .song-table {
-    border-collapse: collapse;
-    margin-top: 4px;
     width: 100%;
-    column-width:60px;
-    vertical-align:top;
+    border-collapse: collapse;
+    align-content: flex-start;
 }
 
-    .song-table th, .song-table td {
-        padding: 8px;
-        text-align: left;
-     
+    .song-table th,
+    .song-table td {
+        padding: 2px;
+    }
+
+song-table td :hover {
+    background-color: cadetblue;
+    color: darkseagreen;
+}
+
+.song-table th {
+    background-color: black !important;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.song-table tbody {
+    overflow-y: scroll;
+    height: 500px;
     
-} /* Set an equal width for each column */
+}
+
+/*
+.container {
+    position:fixed;
+    top: 50px;
+    left: 1px;
+    right:1px;
+    width: 100%;
+    margin-top: 2px;
+    display:block;
+}  
+ 
+
+
+.body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+
+    background: navy !important;
+}
+
+.search-and-filter-wrapper{
+    position: fixed;
+    width: 100%;
+    color: white;
+    padding: 1px;
+    top:20px
+    
+    
+}
+
+.player-main {
+    margin-top: 50px;
+    padding: 2px;
+    gap: 10px;
+}
+
+
+.song-table-container {
+    position:fixed;
+    top:140px;
+    height: 70vh; 
+    overflow-y: auto;
+    margin-right: 4px;
+    width: 100%;
+    background: rgb(30,30,60);
+    color: white;
+    text-align:left;
+}
+
+.song-table {
+    width: 100%;
+    border-collapse: collapse;
+    align-content: flex-start;
+}
+
+    .song-table th,
+    .song-table td {
+        padding: 2px;
     }
 
-    .song-table tbody :hover {
-        background-color: cadetblue;
-        color: black;
-    }
+song-table td :hover {
+    background-color: cadetblue;
+    color: darkseagreen;
+}
 
-    .song-table th {
-        background-color: black;
-        color: white;
-    }
-.col-5 {
+.song-table th {
+    background-color: black !important;
+    color: white;
+    position: sticky;
+    top: 0;
    
-    min-width: 500px;
-}
-
-.col-4 {
-
-    min-width: 450px;
-}
-
-.col-2 {
-    
-    min-width: 150px;
-}
-
-.col-1 {
-   
-    min-width: 100px;
 }
 
 
-/* Use Bootstrap classes to achieve consistent styling */
+.musicplayer{
 
-.search-and-filter-wrapper {
-    display: flex;
-    align-items: stretch;
+    margin-top:600px;
 }
-
-    .search-and-filter-wrapper label {
-        margin-right: 10px;
-    }
-
-    .search-and-filter-wrapper select,
-    
-    .search-and-filter-wrapper button {
-        height: 30px;
-        border-radius: 4px;
-        border: 1px solid #ced4da;
-        padding: 5px 12px;
-
-    }
-
-.filter-wrapper {
-    display: flex;
-
-    padding: 10px;
-}
-
-    .filter-wrapper select {
-        margin-right: 10px;
-    }
-
-.search-wrapper  {
-    display: flex;
-
-    padding: 10px;
-}
-    .search-wrapper input {
-        margin-right:5px;
-        height: 25px;
-        padding-inline:4px 7px;
-        border: 1px solid #ced4da;
-
-    }
+*/
